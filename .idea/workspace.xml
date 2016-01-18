@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d4f2d6a-fb67-4e1a-ab5c-d8d780199bb3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/clients.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/habitacions.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/hotels.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/manifest.mf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/nbproject/build-impl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/nbproject/genfiles.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/nbproject/project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/projecte.dia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/projecte.dia.autosave" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/serveis.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/UpperEssentialLookAndFeel[Inale].jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/java/Exception.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Admin.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Admin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/AdminLlista.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/AdminLlista.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/ClasseGenerica.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Client.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Factura.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Habitacio.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Hotel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/JPanel2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Login.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Login.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Menu.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Menu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Reserva.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Resultat.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Resultat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Servei.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/Ubicacio.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/1991881_v4_mc.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/2085372_v5_mc.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/6741_v9_mc.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/6773_v4_mc.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/860451_v3_mc.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/Android-Lollipop-wallpapers-Google-Now-Wallpaper-2-800x450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/Android-Lollipop-wallpapers-Google-Now-Wallpaper-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/Android-Lollipop-wallpapers-Material-Wallpaper-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/Android-Lollipop-wallpapers-p-800x500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/Google-Now-Wallpaper-1-800x450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/images.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/rochesterday.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/sandiegoday.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/sandiegodusk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/x1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/img/x3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/logo3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/logo4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/prova.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/src/javaproject/prova.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaProject/ubicacions.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.gradle/2.4/taskArtifacts/cache.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/libraries/appcompat_v7_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/libraries/design_23_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/libraries/gson_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/libraries/recyclerview_v7_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/libraries/support_annotations_23_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/libraries/support_v4_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/runConfigurations.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/Todos.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/Todos2.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/app.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/androidTest/java/com/iesebre/dam2/sergi/todos/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/java/com/iesebre/dam2/sergi/todos/CustomListAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/java/com/iesebre/dam2/sergi/todos/Main2Activity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/java/com/iesebre/dam2/sergi/todos/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/java/com/iesebre/dam2/sergi/todos/TodoArrayList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/java/com/iesebre/dam2/sergi/todos/TodoItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/drawable/side_nav_bar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/layout/activity_main2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/layout/app_bar_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/layout/content_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/layout/content_main2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/layout/list_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/layout/nav_header_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/menu/activity_main_drawer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/menu/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/values-v21/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/values/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/app/src/test/java/com/iesebre/dam2/sergi/todos/ExampleUnitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/build/intermediates/dex-cache/cache.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/local.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Todos2/settings.gradle" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Cordovas" afterPath="$PROJECT_DIR$/../Cordovas" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Institu-Ebre/PHP/2DAM2015_16" afterPath="$PROJECT_DIR$/../Institu-Ebre/PHP/2DAM2015_16" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Laravels/Auth" afterPath="$PROJECT_DIR$/../Laravels/Auth" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Laravels/Auth-orig" afterPath="$PROJECT_DIR$/../Laravels/Auth-orig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Laravels/ElixirTinkering" afterPath="$PROJECT_DIR$/../Laravels/ElixirTinkering" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Laravels/SchoolLaravel" afterPath="$PROJECT_DIR$/../Laravels/SchoolLaravel" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Laravels/tasksAPI" afterPath="$PROJECT_DIR$/../Laravels/tasksAPI" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MVC" afterPath="$PROJECT_DIR$/../MVC" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cliph" afterPath="$PROJECT_DIR$/../cliph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hellogit" afterPath="$PROJECT_DIR$/../hellogit" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hellogit2" afterPath="$PROJECT_DIR$/../hellogit2" />
+    </list>
+    <ignored path="RWDTinkering.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RWDTinkering" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.39310345">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1375" />
+    <option name="height" value="904" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RWDTinkering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RWDTinkering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RWDTinkering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d4f2d6a-fb67-4e1a-ab5c-d8d780199bb3" name="Default" comment="" />
+      <created>1453141136118</created>
+      <option name="number" value="Default" />
+      <updated>1453141136118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1375" height="904" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2580888" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991013" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39310345">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
