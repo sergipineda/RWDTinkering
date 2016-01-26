@@ -12,41 +12,48 @@
             flex-flow: row wrap;
             -webkit-flex-flow: row wrap;
         }
-        @media screen and (min-width: 800px){
+        @media screen and (min-width: 800px) {
             .columna2,
             .columna3,
             .columna4,
-            .columna5{
+            .columna5 {
                 width: 50%;
             }
-        @media screen and (min-width: 600px){
-            .columna2,
-            .columna3,
-            .columna4,
-            .columna5{
-                width: 50%;
+
+            @media screen and (min-width: 600px) {
+                .columna2,
+                .columna3,
+                .columna4,
+                .columna5 {
+                    width: 50%;
+                }
+
+                .columna1, .columna2, .columna3, .columna4, .columna5 {
+                    width: 100%;
+                    padding: 10px;
+                    margin: 10px;
+                }
+
+                .columna2 {
+                    background: red;
+                }
+
+                .columna3 {
+                    background: green;
+                }
+
+                .columna4 {
+                    background: yellow;
+                }
+
+                .columna5 {
+                    background: grey;
+                }
+            }
         }
 
-        .columna1,    .columna2,.columna3,.columna4,.columna5{
-            width:100%;
-            padding:10px;
-            margin: 10px;
-        }
-        .columna2{
-            background: red;
-        }
-        .columna3{
-            background: green;
-        }
-        .columna4{
-            background: yellow;
-        }
-        .columna5{
-            background: grey;
-        }
 
 
-        }
     </style>
     <title>Document</title>
 </head>
@@ -74,5 +81,7 @@
         </section>
 
     </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 </body>
 </html>
